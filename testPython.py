@@ -19,3 +19,20 @@ on espère que vous appréciez
 ce glossaire sur les chaînes
 de caractères 🙂
 '''
+# 99. Changer la casse
+
+site = 'docstring'
+
+print(site[0:3])  # 'doc'
+print(site[3:])   # 'string'
+print(site[1::2])  # 'osrn'
+
+
+# 99. Changer la casse
+a = "ftgiutfitk"
+b = a.upper()
+print(b)  # FTGIUTFITK
+
+a = "DJKFRGJKPR"
+b = a.lower()
+print(b)  # djkfrgjkpr
