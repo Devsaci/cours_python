@@ -56,3 +56,7 @@ a = "bonjour  bonjour "
 b = a.replace("jour", "soir")
 print(b)  # bonsoir  bonsoir
 print("bonjour  bonjour ".replace("jour", "soir") + "en une seul ligne")
+
+
+print("bonjour  bonjour  end".replace("  ", ""))
+#  bonjourbonjourend
