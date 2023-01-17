@@ -47,3 +47,7 @@ print(b)  # Sdfghjklmù*  Fghjklm Fghjklm Gbhnj,K;
 
 
 # 100. Remplacer des éléments
+
+a = "bonjour"
+b = a.replace("jour", "soir")
+print(b)  # bonsoir
