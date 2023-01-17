@@ -44,3 +44,6 @@ print(b)  # Sdfghjklmù*
 a = "sdfghjklmù*  fghjklm fghjklm gbhnj,k; "
 b = a.title()
 print(b)  # Sdfghjklmù*  Fghjklm Fghjklm Gbhnj,K;
+
+
+# 100. Remplacer des éléments
