@@ -36,3 +36,11 @@ print(b)  # FTGIUTFITK
 a = "DJKFRGJKPR"
 b = a.lower()
 print(b)  # djkfrgjkpr
+
+a = "sdfghjklmù*"
+b = a.capitalize()
+print(b)  # Sdfghjklmù*
+
+a = "sdfghjklmù*  fghjklm fghjklm gbhnj,k; "
+b = a.title()
+print(b)  # Sdfghjklmù*  Fghjklm Fghjklm Gbhnj,K;
