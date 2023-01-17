@@ -60,3 +60,6 @@ print("bonjour  bonjour ".replace("jour", "soir") + "en une seul ligne")
 
 print("bonjour  bonjour  end".replace("  ", ""))
 #  bonjourbonjourend
+
+print("bonjour  bonjour end".replace("  ", ""))
+#  bonjourbonjour end
