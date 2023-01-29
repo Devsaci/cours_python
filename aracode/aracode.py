@@ -13,3 +13,7 @@ print(var.isidentifier())
 age = 'abc'
 print(age.isdigit())
 # False
+
+print(True, 123)
+name_age = "saci-20year"
+print(type(name_age))
