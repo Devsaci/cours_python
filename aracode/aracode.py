@@ -4,5 +4,12 @@
 var = 'tesla'
 print(var.isidentifier())
 # True
-print(var.isidentifier)
+# print(var.isidentifier)
 # <built-in method isidentifier of str object at 0x00000223A5763F30>
+# var = 123
+# print(var.isidentifier())
+# # AttributeError: 'int' object has no attribute 'isidentifier'
+
+age = 'abc'
+print(age.isdigit())
+# False
