@@ -1,3 +1,19 @@
+
+print("####### START ######## ")
+print(" ")
+print(" ")
+print(" ")
+
+print("####################################################")
+# https://www.youtube.com/watch?v=g5bCbqJh4rU&list=PLSiLeKadTQ7mT2nyzPbfzWP3IOniezNvP&index=5
+print("تعلم بايثون من الصفر للاحتراف: تنفيذ اكثر من امر في سطر واحد Execution")
+
+print(" print 1")
+print(" print 2")
+print(" print 3")
+exit()
+
+
 # راكوان للبرمجة - CodeRK
 # https://www.youtube.com/watch?v=m_wEgw42g0E&list=PLSiLeKadTQ7mT2nyzPbfzWP3IOniezNvP&index=1
 
