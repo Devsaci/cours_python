@@ -25,3 +25,7 @@ print(type(name_age))
 
 # https://www.youtube.com/watch?v=H9SnG8q_4Tk&list=PLSiLeKadTQ7mT2nyzPbfzWP3IOniezNvP&index=4
 # تعلم بايثون من الصفر للاحتراف : تعلم الطباعة بالترتيب والطباعة المتعددة printing
+
+print("age", "name", "sole", "date", True)
+# >>> print("age", "name", "sole", "date", True)
+# age name sole date True
