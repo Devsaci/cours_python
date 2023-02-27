@@ -1,6 +1,9 @@
 # راكوان للبرمجة - CodeRK
 # https://www.youtube.com/watch?v=m_wEgw42g0E&list=PLSiLeKadTQ7mT2nyzPbfzWP3IOniezNvP&index=1
 
+
+# https://www.youtube.com/watch?v=nYZkwmd9Qk4&list=PLSiLeKadTQ7mT2nyzPbfzWP3IOniezNvP&index=3
+
 var = 'tesla'
 print(var.isidentifier())
 # True
@@ -17,3 +20,5 @@ print(age.isdigit())
 print(True, 123)
 name_age = "saci-20year"
 print(type(name_age))
+# >>> print(type(name_age))
+# <class 'str' >
