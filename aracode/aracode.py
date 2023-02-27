@@ -22,3 +22,6 @@ name_age = "saci-20year"
 print(type(name_age))
 # >>> print(type(name_age))
 # <class 'str' >
+
+# https://www.youtube.com/watch?v=H9SnG8q_4Tk&list=PLSiLeKadTQ7mT2nyzPbfzWP3IOniezNvP&index=4
+# تعلم بايثون من الصفر للاحتراف : تعلم الطباعة بالترتيب والطباعة المتعددة printing
