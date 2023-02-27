@@ -29,3 +29,6 @@ print(type(name_age))
 print("age", "name", "sole", "date", True)
 # >>> print("age", "name", "sole", "date", True)
 # age name sole date True
+
+# https://www.youtube.com/watch?v=g5bCbqJh4rU&list=PLSiLeKadTQ7mT2nyzPbfzWP3IOniezNvP&index=5
+# تعلم بايثون من الصفر للاحتراف : التعرف على الامر exit في بايثون , الخروج exit
