@@ -4,6 +4,7 @@ print(" ")
 print(" ")
 print(" ")
 
+exit()
 print("####################################################")
 # https://www.youtube.com/watch?v=g5bCbqJh4rU&list=PLSiLeKadTQ7mT2nyzPbfzWP3IOniezNvP&index=5
 print("تعلم بايثون من الصفر للاحتراف: تنفيذ اكثر من امر في سطر واحد Execution")
@@ -11,7 +12,6 @@ print("تعلم بايثون من الصفر للاحتراف: تنفيذ اكث
 print(" print 1")
 print(" print 2")
 print(" print 3")
-exit()
 
 
 # راكوان للبرمجة - CodeRK
