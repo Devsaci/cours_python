@@ -30,5 +30,12 @@ print("age", "name", "sole", "date", True)
 # >>> print("age", "name", "sole", "date", True)
 # age name sole date True
 
+
+print("####################################################")
 # https://www.youtube.com/watch?v=g5bCbqJh4rU&list=PLSiLeKadTQ7mT2nyzPbfzWP3IOniezNvP&index=5
-# تعلم بايثون من الصفر للاحتراف : التعرف على الامر exit في بايثون , الخروج exit
+print("تعلم بايثون من الصفر للاحتراف: التعرف على الامر exit في بايثون, الخروج exit")
+print("age1", "name1", "sole1", "date1", True)
+print("age2", "name2", "sol2e", "date2", False)
+exit()
+print("age1", "name1", "sole1", "date1", True)
+print("age2", "name2", "sol2e", "date2", False)
