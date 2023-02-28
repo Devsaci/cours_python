@@ -53,10 +53,8 @@ buttonprint = Button(
     text='add User',
     font=('tajawal', 12, 'bold'),
     width=12,
-
-
-
-).pack()
+)
+buttonprint.place(x=110, y=170)
 
 
 pro.mainloop()
