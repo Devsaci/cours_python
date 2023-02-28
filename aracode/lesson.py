@@ -18,7 +18,8 @@ title = Label(
 ).pack(fill=X)
 L1 = Label(
     pro,
-    text='Enter Your Name'
+    text='Enter Your Name',
+    font=('tajawal', 17, 'bold'),
 ).pack()
 
 pro.mainloop()
