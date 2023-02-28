@@ -48,7 +48,10 @@ inputName = Entry(
 ).pack()
 
 ############## Button Print ##################
-buttonprint = Button()
+buttonprint = Button(
+    pro,
+
+).pack()
 
 
 pro.mainloop()
