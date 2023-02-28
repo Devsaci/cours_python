@@ -7,9 +7,9 @@
 
 from tkinter import *
 pro = Tk()
-pro.geometry('600x400')
+pro.geometry('300x400')
 pro.title('Name-age : Program')
-title = Label(pro, text='Name & age Program').pack()
+title = Label(pro, text='Name & age Program', bg='red').pack()
 pro.mainloop()
 
 #  python -m tkinter
