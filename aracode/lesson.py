@@ -7,6 +7,7 @@
 
 from tkinter import *
 pro = Tk()
+pro.geometry('200x400')
 pro.mainloop()
 
 #  python -m tkinter
