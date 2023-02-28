@@ -7,7 +7,7 @@
 
 from tkinter import *
 pro = Tk()
-pro.geometry('300x400')
+pro.geometry('400x400')
 pro.title('Name-age : Program')
 title = Label(
     pro,
@@ -21,7 +21,13 @@ L1 = Label(
     text='Enter Your Name',
     font=('tajawal', 17, 'bold'),
 ).pack()
-inputName = Entry(pro).pack()
+inputName = Entry(
+    pro,
+    width=35,
+    font=('tajawal', 12, 'bold'),
+    justify='center'
+
+).pack()
 
 pro.mainloop()
 
