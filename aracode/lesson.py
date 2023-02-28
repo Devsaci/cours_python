@@ -50,6 +50,7 @@ inputName = Entry(
 ############## Button Print ##################
 buttonprint = Button(
     pro,
+    text='add User'
 
 ).pack()
 
