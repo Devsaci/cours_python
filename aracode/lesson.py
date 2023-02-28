@@ -51,7 +51,9 @@ inputName = Entry(
 buttonprint = Button(
     pro,
     text='add User',
-    width=12
+    font=('tajawal', 12, 'bold'),
+    width=12,
+
 
 
 ).pack()
