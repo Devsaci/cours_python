@@ -54,7 +54,7 @@ buttonprint = Button(
     font=('tajawal', 12, 'bold'),
     width=12,
 )
-buttonprint.place(x=110, y=170)
+buttonprint.place(x=130, y=170)
 
 
 pro.mainloop()
