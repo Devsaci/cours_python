@@ -16,6 +16,7 @@ title = Label(
     fg=('white'),
     font=('tajawal', 17, 'bold'),
 ).pack(fill=X)
+##############  Enter Your Name  ##################
 L1 = Label(
     pro,
     text='Enter Your Name',
@@ -26,7 +27,19 @@ inputName = Entry(
     width=35,
     font=('tajawal', 12, 'bold'),
     justify='center'
+).pack()
+############## Enter Your Age ##################
 
+L1 = Label(
+    pro,
+    text='Enter Your Age',
+    font=('tajawal', 17, 'bold'),
+).pack()
+inputName = Entry(
+    pro,
+    width=35,
+    font=('tajawal', 12, 'bold'),
+    justify='center'
 ).pack()
 
 pro.mainloop()
