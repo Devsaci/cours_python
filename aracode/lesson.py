@@ -7,7 +7,8 @@
 
 from tkinter import *
 pro = Tk()
-pro.geometry('200x400')
+pro.geometry('600x400')
+pro.title('Name-age : Program')
 pro.mainloop()
 
 #  python -m tkinter
