@@ -21,6 +21,7 @@ L1 = Label(
     text='Enter Your Name',
     font=('tajawal', 17, 'bold'),
 ).pack()
+inputName = Entry(pro).pack()
 
 pro.mainloop()
 
