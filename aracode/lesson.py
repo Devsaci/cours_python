@@ -8,3 +8,6 @@
 from tkinter import *
 pro = Tk()
 pro.mainloop()
+
+#  python -m tkinter
+# Version : Tcl/Tk 8.6
