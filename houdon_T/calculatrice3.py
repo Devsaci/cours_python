@@ -10,3 +10,8 @@ while not (a.isdigit() and b.isdigit()):
     # On affiche une phrase si les nombres entrés ne sont pas valides.
     if not (a.isdigit() and b.isdigit()):
         print("Veuillez entrer deux nombres valides")
+
+
+# On affiche le résultat de l'addition
+print(
+    f"Le résultat de l'addition de {a} avec {b} est égal à {int(a) + int(b)}")
